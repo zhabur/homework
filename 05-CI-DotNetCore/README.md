@@ -19,4 +19,5 @@
 1. Налаштувати [GitLab Registry](https://docs.gitlab.com/ee/administration/packages/container_registry.html)
 2. Збілдити docker image та передати його на свій приватний Registry
 
+
 Виконання завдання оформити у вигляді pull request.
